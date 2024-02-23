@@ -95,6 +95,7 @@ body {
 
 .quotes > h2 {
     font-size: 2.5em;
+    text-align: center;
 }
 
 .quotes > ul {
@@ -116,6 +117,7 @@ body {
 
 .container-recommendation > h2 {
     font-size: 3em;
+    text-align: center;
 }
 
 .container-card {
@@ -131,10 +133,11 @@ body {
     border: 1px solid #525357;
     border-radius: 10px;
     background-color: #f2f2f2;
-    width: 300px;
+    width: 320px;
     height: 300px;
     padding: 1em;
     box-shadow: 1px 2px 0 rgba(0,0,0,0.5);
+    color: #151616;
 }
 
 .contact {
@@ -216,6 +219,11 @@ input[type=text], select, textarea {
 
 .about > h1 {
     text-align: center;
+}
+
+.about > p {
+    margin-left: 1em;
+    margin-right: 1em;
 }
 
 .maps > h3 {
