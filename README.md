@@ -38,6 +38,14 @@ _(Kedepannya akan kami sertakan link menuju no WA atau akun sosial media kami)_
 
 ---
 
+#### 5. PRODUCT
+![img](<Asset/image/SS PRODUCT.png>)
+
+_Kami tampilkan product yang kan jual_
+_(Kedepannya akan kami sertakan link agar bisa berpindah ke halaman khusus product)_
+
+---
+
 ### Belajar-Mengerti-Memahami
 _Tidak hanya terbatas pada software enginering namun juga untuk hal lain di dalam menjalani kehidupan ini_
 
