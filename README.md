@@ -6,7 +6,7 @@ Tugas assignment
 
 Deadline assignment Jum`at, 16 februari 2024
 
-Utuk Tampilannya bisa di lihat [di sini](https://kizfy.netlify.app/)
+Utuk Tampilannya bisa di lihat [di sini](https://kizfy.site/)
 
 ---
 
